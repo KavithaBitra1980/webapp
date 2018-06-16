@@ -62,7 +62,7 @@
 	   	
 	       <repository>
 			<id>jenkinswartonexus</id>
-			<name>snapshots</name>
+			<name>jenkinswartonexus</name>
 			<url>http://localhost:8081/repository/jenkinswartonexus/</url>
 	       </repository>
 	     
